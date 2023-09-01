@@ -2,10 +2,12 @@
 name = "gosumemory_helper"
 version = "0.1.0"
 edition = "2021"
+description = "A Gosumemory message parser"
 include = [
-    "src/lib.rs",
+    "casrc/lib.rs",
     "Cargo.toml",
 ]
+license-file = "LICENSE"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
